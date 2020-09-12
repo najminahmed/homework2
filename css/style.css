@@ -26,6 +26,12 @@ img{display: block;
 	margin-right: auto;
 }
 
+div{height: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 80px
+}
 
 #red {background-color: #ff0000;
 	text-align: right
