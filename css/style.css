@@ -1,3 +1,7 @@
+body{background-color: #000000;
+	color: #ffffff;
+	font-family: "Lucida Grande", sans-serif
+}
 h1{font-family: "Lucida Grande", sans-serif;
   color: #ffffff; 
   background-color: #000000;
@@ -23,23 +27,37 @@ img{display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-body{background-color: #000000}
-div{height: 150px;
+
+#intro {background-color: #000000;
+	height: 150px;
 	padding-top: 25px;
 	padding-right: 25px;
 	padding-bottom: 25px;
 	padding-left: 80px
 }
-
-#intro {background-color: #000000}
 #red {background-color: #ff0000;
-	text-align: right
+	text-align: right;
+	height: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 80px
 }
 #blue {background-color: #0000ff;
-	text-align: left
+	text-align: left;
+	height: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 80px
 }
 #yellow {background-color: #FFFF00;
 	text-align: right;
+	height: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 80px
 }
 #yellow > h2 {color: #000000;
 	text-shadow: 5px, 5px, 2px, #c7e2c7}
@@ -47,7 +65,12 @@ div{height: 150px;
 #yellow > p {color: #000000}
 
 #green {background-color: #008000;
-	text-align: left
+	text-align: left;
+	height: 150px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 80px
 }
 	
 footer{background-color: #000000;
