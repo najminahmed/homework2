@@ -23,7 +23,7 @@ p{font-family: "Lucida Grande", sans-serif;
 	font-size: 24px;
 	padding-top: 20px
 }
-footer p {padding-bottom: 10px;
+footer p {padding-bottom: 10px !important;
 	padding-right: 10px;
 	text-align: right
 }
