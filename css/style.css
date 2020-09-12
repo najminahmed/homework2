@@ -19,8 +19,8 @@ p{font-family: "Lucida Grande", sans-serif;
 	padding-top: 20px
 }
 
-img{display: block;
-	background-color: #000000;
+img{background-color: #000000;
+	display: block;
 	height: auto;
 	width: 525px;
 	margin-left: auto;
