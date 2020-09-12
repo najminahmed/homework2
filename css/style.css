@@ -23,12 +23,12 @@ p{font-family: "Lucida Grande", sans-serif;
 	font-size: 24px;
 	padding-top: 20px
 }
-#yellow p {color: #000000}
-
 footer p {padding-bottom: 10px;
 	padding-right: 10px;
 	text-align: right
 }
+#yellow p {color: #000000}
+
 
 img{display: block;
 	height: auto;
