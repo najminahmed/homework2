@@ -20,6 +20,7 @@ p{font-family: "Lucida Grande", sans-serif;
 }
 
 img{display: block;
+	height: auto;
 	width: 525px;
 	margin-left: auto;
 	margin-right: auto
