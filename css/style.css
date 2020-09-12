@@ -49,7 +49,8 @@ div{height: 150px;
 	text-align: left
 }
 	
-footer{text-align: right;
+footer{background-color: #000000;
+	text-align: right;
 	padding-bottom: 10px;
 	padding-right: 10px
 }
