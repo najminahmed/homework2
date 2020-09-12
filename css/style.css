@@ -19,7 +19,7 @@ p{font-family: "Lucida Grande", sans-serif;
 	padding-top: 20px
 }
 
-img{display: block;
+html, img{display: block;
 	background-color: black;
 	height: auto;
 	width: 525px;
