@@ -25,6 +25,11 @@ p{font-family: "Lucida Grande", sans-serif;
 	padding-top: 20px
 }
 
+footer p {padding-bottom: 10px;
+	padding-right: 10px;
+	text-align: right
+}
+
 img{display: block;
 	height: auto;
 	width: 525px;
@@ -73,10 +78,7 @@ img{display: block;
 	padding-left: 25px
 }
 	
-footer p {padding-bottom: 10px;
-	padding-right: 10px;
-	text-align: right
-}
+
 	
 	
 
